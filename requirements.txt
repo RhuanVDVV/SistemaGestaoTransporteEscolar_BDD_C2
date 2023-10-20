@@ -1,0 +1,5 @@
+cx-Oracle==8.3.0 
+# pip install pandas==1.4.4
+pandas==1.4.4
+# pip install numpy==1.23.2
+numpy==1.23.2
